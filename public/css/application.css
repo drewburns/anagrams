@@ -1,0 +1,35 @@
+html {
+	font-family: 'Luckiest Guy', cursive;
+	color:white;
+	background-color: #3253fa;
+	background-image: url(http://www.transparenttextures.com/patterns/diagmonds-light.png););
+    background-repeat: repeat;
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+#container {
+	margin-left:30%;
+	width:45%;
+	background-color: #3253fa;
+	padding: 10px;
+	border-radius: 5px;
+	height: 800px;
+	background-image: url("diagmonds.png");
+	background-repeat: repeat;
+}
+form {
+	margin-left: 27%;
+}
+ul{
+	margin-top: 70px;
+	margin-left:15%;
+	list-style-type: none;
+}
+
+li {
+	font-size: 25px;
+
+}
+h1{
+	font-size:28px;
+	margin-left: 15px;
+}
