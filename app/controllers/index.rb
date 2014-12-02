@@ -3,7 +3,7 @@ get '/' do
   # Look in app/views/index.erb
   erb :index
 end
-
+#test
 post '/' do
 	@anagrams = []
   @word = params[:user_input]
